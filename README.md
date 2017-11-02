@@ -1,8 +1,10 @@
 # Akkauth
 
+_(work in progress)_
+
 Akkauth is a simple webservice for registering and authenticating accounts through Facebook login and
 email address/password combinations. It is *not* a production-grade application, it only serves as a showcase of various
-Scala programming techniques.
+Scala programming techniques (for now...)
 
 This project is subdivided into three modules:
 
@@ -21,3 +23,5 @@ This project is subdivided into three modules:
 [tagless-final]: https://www.beyondthelines.net/programming/introduction-to-tagless-final/
 [macwire]: https://github.com/adamw/macwire
 [finch]: https://finagle.github.io/finch/
+
+
